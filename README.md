@@ -17,3 +17,14 @@ This mobile application makes it easier for the user to follow their mothly budg
 4. Overview - Here, the user can see the list of his expenses with the selected categories.
 5. History - Here, the user can see the history of his expenses or purchases that had been added before.
 6. Budget - A pie chart depecting all the expenses of the user.
+
+## Images
+<img src="images/anim.jpg" height="400">
+<img src="images/overview.jpg" height="400">
+<img src="images/navBar.jpg" height="400">
+<img src="images/settings.jpg" height="400">
+<img src="images/addCategory.jpg" height="400">
+<img src="images/editExpenses.jpg" height="400">
+<img src="images/addExpense.jpg" height="400">
+<img src="images/history.jpg" height="400">
+<img src="images/pieChart.jpg" height="400">
